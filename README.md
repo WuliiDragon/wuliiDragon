@@ -10,7 +10,7 @@
   <img align="right" src="https://metrics.lecoq.io/JACK-ZHANG-coming?template=terminal" />
 </a>
 
-# -coming 🌝
+#WuliiDragon 🌝
 
 <img width="340px" src="https://github-readme-stats.vercel.app/api?username=WuliiDragon&theme=vue-dark&count_private=true&show_icons=true">
 
@@ -18,4 +18,5 @@
 
 <img width="340px" src="https://github-readme-stats.vercel.app/api/pin/?username=WuliiDragon&repo=my-now-blog&theme=dark">
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=WuliiDragon)](https://github.com/WuliiDragon/github-readme-stats)
+<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=WuliiDragon)](https://github.com/WuliiDragon/github-readme-stats)
+ -->
